@@ -5,7 +5,7 @@ description = ""
 authors = ["pengfei <liu.pengfei@hotmail.fr>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.13"
 pyspark = "3.3.0"
 # deltalake = "^0.4.8"
 matplotlib = "^3.4.2"
