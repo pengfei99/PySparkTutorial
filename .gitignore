@@ -131,7 +131,7 @@ dmypy.json
 poetry.lock
 
 data/tmp
-psc_venv
+pst_venv
 
 
 
